@@ -230,5 +230,5 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
-    - Getting Started: "getstarted"                         
+    - Getting Started: "[getstarted](https://github.com/hdixon13/hdixon13.github.io/blob/master/getstarted.md)"                         
   Author's home: "http://deanattali.com"
