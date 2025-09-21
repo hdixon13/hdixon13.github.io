@@ -1,5 +1,3 @@
-## Liquid Table
-
 ---
 layout: default
 title: 'amiright?'
@@ -26,8 +24,5 @@ gosling:
 
 
 
-
-![](/assets/img/hey-world.png) 
-
-
+![](/assets/img/hey-world.png)
 
