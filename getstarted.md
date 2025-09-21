@@ -263,11 +263,12 @@ This template was not made *entirely* from scratch. I'd like to give special tha
 I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/), [Jekyll Themes](http://jekyllthemes.org/), and another [Jekyll Themes](http://jekyllrc.github.io/jekyllthemes/) for featuring Beautiful Jekyll in their Jekyll theme directories.
 
 # List of links in the navigation bar
-navbar-links:
   About Me: "aboutme"
+  
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
-    - Getting Started: "[getstarted](https://github.com/hdixon13/hdixon13.github.io/blob/master/getstarted.md)"                         
+    - Getting Started: "[getstarted](https://github.com/hdixon13/hdixon13.github.io/blob/master/getstarted.md)"
+    - Table Demo: "[table-demo](https://github.com/hdixon13/hdixon13.github.io/blob/master/table-demo.md)" 
   Author's home: "http://deanattali.com"
 
