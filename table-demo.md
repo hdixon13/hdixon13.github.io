@@ -1,3 +1,5 @@
+## Liquid Table
+
 ---
 layout: default
 title: 'amiright?'
@@ -21,11 +23,11 @@ gosling:
   - not ryan reynolds
 ---
 
-![]({{site.url}}/assets/img/hey-world.png)  
 
 
 
 
-## Liquid Table
+![](/assets/img/hey-world.png) 
+
 
 
