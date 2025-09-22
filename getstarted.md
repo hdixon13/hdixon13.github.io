@@ -66,31 +66,6 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 
 ![Installation steps](assets/img/install-steps.gif)
 
-<style>
-.gs-section-01 h3 { 
-    color: green; 
-}
-
-.gs-section-01 p {
-    font-size: 30px;
-}
-
-.gs-section-02 h3 { 
-    color: blue; 
-}
-
-.gs-section-02 p {
-    font-size: 25px;  
-}
-
-.gs-section-03 h3 { 
-    color: red; 
-}
-
-.gs-section-03 p {
-    font-size: 20px; 
-}
-</style>
 
 <div class="gs-section-01" markdown="1">
 
@@ -262,13 +237,29 @@ This template was not made *entirely* from scratch. I'd like to give special tha
 
 I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/), [Jekyll Themes](http://jekyllthemes.org/), and another [Jekyll Themes](http://jekyllrc.github.io/jekyllthemes/) for featuring Beautiful Jekyll in their Jekyll theme directories.
 
-# List of links in the navigation bar
-  About Me: "aboutme"
-  
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - Getting Started: "[getstarted](https://github.com/hdixon13/hdixon13.github.io/blob/master/getstarted.md)"
-    - Table Demo: "[table-demo](https://github.com/hdixon13/hdixon13.github.io/blob/master/table-demo.md)" 
-  Author's home: "http://deanattali.com"
+<style>
+.gs-section-01 h3 { 
+    color: green; 
+}
 
+.gs-section-01 p {
+    font-size: 30px;
+}
+
+.gs-section-02 h3 { 
+    color: blue; 
+}
+
+.gs-section-02 p {
+    font-size: 25px;  
+}
+
+.gs-section-03 h3 { 
+    color: red; 
+}
+
+.gs-section-03 p {
+    font-size: 20px; 
+}
+</style>
+ 
