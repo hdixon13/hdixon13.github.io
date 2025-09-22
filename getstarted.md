@@ -80,7 +80,7 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 }
 
 .gs-section-02 p {
-    font-size: 25px; 
+    font-size: 25px;  
 }
 
 .gs-section-03 h3 { 
