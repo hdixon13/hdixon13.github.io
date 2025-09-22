@@ -9,7 +9,7 @@ This is my last semester before I graduate in December!
 Some fun facts about me:
 
 - I graduated with a B.S in psychology and neuroscience, and I have a minor in communications!
-- I love animals, and in my free time I like to volunteer at the animal shelter. 
+- I love animals, and in my free time I like to volunteer at the animal shelter.  
 
 
 
