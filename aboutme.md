@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: ASU PEDAM (Program Evaluation and Data Analytics) M.S Student - PAF514
 ---
 
-My name is Hannah Dixon. I have the following qualities:
+My name is Hannah Dixon. I began completing my PEDAM degree in January of 2025. 
+This is my last semester before I graduate in December! 
+Some fun facts about me:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I graduated with a B.S in psychology and neuroscience, and I have a minor in communications!
+- I love animals, and in my free time I like to volunteer at the animal shelter. 
 
-What else do you need?
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
